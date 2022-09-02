@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 #/ Passwords
-email_sender/passwords.py
+email_functions/email_sender/passwords.py
