@@ -130,3 +130,6 @@ dmypy.json
 
 #/ Passwords
 email_functions/email_sender/passwords.py
+
+# img
+assets/img
