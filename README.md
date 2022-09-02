@@ -10,10 +10,10 @@ This is a repo that is exclusively for learning different tools inside Python.
 6. Quiz Program
 7. Word Replacement
 8. Interest Rate Calculator
-9.
-10.
-11.
-12.
+9. Connectivity Checker
+10. Random Password Generator
+11. Dice Roll Simulator
+12. 
 13.
 14.
 15.
