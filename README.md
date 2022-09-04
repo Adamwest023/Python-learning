@@ -13,12 +13,21 @@ This is a repo that is exclusively for learning different tools inside Python.
 9. Connectivity Checker
 10. Random Password Generator
 11. Dice Roll Simulator
-12. 
-13.
-14.
-15.
+12. Rock,Paper,Scissors
+13. Word Dictionary 
+14. Currency Converter
+15. Leap Year Checker 
 16.
 17
 18.
 19.
 20.
+
+# tools used
+1. random from python 
+2. Pydictionary for word dictionary 
+3. string from python
+4. urllib for connectivity checker
+5. email message for email sender
+6. qrcode for QR Code Generator
+7. 

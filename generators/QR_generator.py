@@ -2,7 +2,6 @@
 # create a function that collections a text and converts it to a QR Code
 # save the code as an image
 # run the function
-from turtle import fillcolor
 import qrcode
 
 
