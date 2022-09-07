@@ -17,8 +17,8 @@ This is a repo that is exclusively for learning different tools inside Python.
 13. Word Dictionary 
 14. Currency Converter
 15. Leap Year Checker 
-16.
-17
+16. Facial Recognition
+17. Text Automation and scheduler
 18.
 19.
 20.
