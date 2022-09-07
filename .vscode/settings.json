@@ -3,6 +3,7 @@
         "imread",
         "imshow",
         "imwrite",
-        "qrcode"
+        "qrcode",
+        "textbelt"
     ]
 }
