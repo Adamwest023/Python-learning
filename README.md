@@ -30,4 +30,5 @@ This is a repo that is exclusively for learning different tools inside Python.
 4. urllib for connectivity checker
 5. email message for email sender
 6. qrcode for QR Code Generator
-7. 
+7. Scheduler and textbelt for Python Automation
+8. 
